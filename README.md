@@ -3,8 +3,8 @@
   <div align="center">
   <img  src="https://raw.githubusercontent.com/faustyu1/Faustyu1/refs/heads/main/grid-snake.svg"
        alt="snake" />
-    <div>My Telegram: https://t.me/dshashimov</div>
+   <div>🔥 My Telegram: https://t.me/dshashimov</div>
     
-### :fire: My Stats :
+### 💔 My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faustyu1&theme=merko)
 
